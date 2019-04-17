@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yearmlg/Burger.git"
+    "url": "git+https://github.com/imuktiar/Burger.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yearmlg/Burger/issues"
+    "url": "https://github.com/imuktiar/Burger/issues"
   },
-  "homepage": "https://github.com/yearmlg/Burger#readme",
+  "homepage": "https://github.com/imuktiar/Burger#readme",
   "dependencies": {
     "express": "^4.16.4",
     "express-handlebars": "^3.0.2",
